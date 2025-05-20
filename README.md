@@ -1,1 +1,1 @@
-# project-quantex
+# Project Quantex
